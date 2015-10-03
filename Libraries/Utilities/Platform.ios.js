@@ -14,6 +14,8 @@
 
 var Platform = {
   OS: 'ios',
+  isiOS: true,
+  isAndroid: false,
 };
 
 module.exports = Platform;
